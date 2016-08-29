@@ -1,3 +1,11 @@
+********************************************************************
+********************************************************************
+NOTE: Files here are duplicated in the private repo lollipop_build_core. 
+In the future, for Marshmallow or Nougat, we will try to use 
+subtrees/submodules. Michael.
+*********************************************************************
+*********************************************************************
+
 The packages/experimental/ directory is for NON-SHIPPING code that is
 not included with any flavor of the device, the SDK, or any other kind
 of public release, but which might be useful for someone as a test
